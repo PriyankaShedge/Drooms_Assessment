@@ -59,4 +59,5 @@ This file contains details to import the project, steps to execute it and view t
  1. Assertions could be better
  2. Exception handling could be added
  3. Reporting could be enhanced
+ 4. Hardcoded waits can be replaced
 
