@@ -1,0 +1,47 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1663796971222' stop='1663796987176'>
+    <name>Demoblaze UI Test</name>
+    <title>Demoblaze UI Test</title>
+    <test-cases>
+        <test-case start='1663796971233' status='passed' stop='1663796972572'>
+            <name>Verify category</name>
+            <title>Verify category</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1663796972573' status='passed' stop='1663796973291'>
+            <name>verify price tags</name>
+            <title>verify price tags</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1663796973292' status='passed' stop='1663796973875'>
+            <name>verify About us pop up</name>
+            <title>verify About us pop up</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1663796973875' status='passed' stop='1663796979638'>
+            <name>verify product added pop up</name>
+            <title>verify product added pop up</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1663796979639' status='passed' stop='1663796987175'>
+            <name>verify total amount calculation in cart</name>
+            <title>verify total amount calculation in cart</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

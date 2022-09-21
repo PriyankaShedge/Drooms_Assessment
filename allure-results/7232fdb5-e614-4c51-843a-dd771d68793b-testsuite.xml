@@ -1,0 +1,63 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1663796961266' stop='1663796968594'>
+    <name>Demoblaze API Test</name>
+    <title>Demoblaze API Test</title>
+    <test-cases>
+        <test-case start='1663796961279' status='passed' stop='1663796961627'>
+            <name>Verify entries count</name>
+            <title>Verify entries count</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1663796961628' status='passed' stop='1663796961897'>
+            <name>Verify entries result prices</name>
+            <title>Verify entries result prices</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1663796961899' status='passed' stop='1663796962160'>
+            <name>Verify entries result category (example #1)</name>
+            <title>Verify entries result category (example #1)</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1663796962161' status='passed' stop='1663796962383'>
+            <name>Verify entries result category (example #2)</name>
+            <title>Verify entries result category (example #2)</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1663796962384' status='passed' stop='1663796962613'>
+            <name>Verify entries result category (example #3)</name>
+            <title>Verify entries result category (example #3)</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1663796962615' status='passed' stop='1663796965064'>
+            <name>Verify add to cart</name>
+            <title>Verify add to cart</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1663796965065' status='passed' stop='1663796968592'>
+            <name>Verify delete from cart</name>
+            <title>Verify delete from cart</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
